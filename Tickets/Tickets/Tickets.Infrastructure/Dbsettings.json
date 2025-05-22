@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "defaultConnection": "Server=(localdb)\\mssqllocaldb;Database=TicketsDb;Trusted_Connection=True;"
+  }
+}

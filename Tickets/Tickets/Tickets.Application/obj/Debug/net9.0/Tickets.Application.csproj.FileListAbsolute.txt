@@ -1,0 +1,17 @@
+C:\Users\Administrador\Desktop\GitHub\Tickets\Tickets\Tickets.Application\bin\Debug\net9.0\Tickets.Application.deps.json
+C:\Users\Administrador\Desktop\GitHub\Tickets\Tickets\Tickets.Application\bin\Debug\net9.0\Tickets.Application.dll
+C:\Users\Administrador\Desktop\GitHub\Tickets\Tickets\Tickets.Application\bin\Debug\net9.0\Tickets.Application.pdb
+C:\Users\Administrador\Desktop\GitHub\Tickets\Tickets\Tickets.Application\bin\Debug\net9.0\Tickets.Domain.dll
+C:\Users\Administrador\Desktop\GitHub\Tickets\Tickets\Tickets.Application\bin\Debug\net9.0\Tickets.Domain.pdb
+C:\Users\Administrador\Desktop\GitHub\Tickets\Tickets\Tickets.Application\obj\Debug\net9.0\Tickets.Application.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\GitHub\Tickets\Tickets\Tickets.Application\obj\Debug\net9.0\Tickets.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\GitHub\Tickets\Tickets\Tickets.Application\obj\Debug\net9.0\Tickets.Application.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\GitHub\Tickets\Tickets\Tickets.Application\obj\Debug\net9.0\Tickets.Application.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\GitHub\Tickets\Tickets\Tickets.Application\obj\Debug\net9.0\Tickets.Application.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\GitHub\Tickets\Tickets\Tickets.Application\obj\Debug\net9.0\Tickets..62D2E05A.Up2Date
+C:\Users\Administrador\Desktop\GitHub\Tickets\Tickets\Tickets.Application\obj\Debug\net9.0\Tickets.Application.dll
+C:\Users\Administrador\Desktop\GitHub\Tickets\Tickets\Tickets.Application\obj\Debug\net9.0\refint\Tickets.Application.dll
+C:\Users\Administrador\Desktop\GitHub\Tickets\Tickets\Tickets.Application\obj\Debug\net9.0\Tickets.Application.pdb
+C:\Users\Administrador\Desktop\GitHub\Tickets\Tickets\Tickets.Application\obj\Debug\net9.0\ref\Tickets.Application.dll
+C:\Users\Administrador\Desktop\GitHub\Tickets\Tickets\Tickets.Application\bin\Debug\net9.0\Tickets.Infrastructure.dll
+C:\Users\Administrador\Desktop\GitHub\Tickets\Tickets\Tickets.Application\bin\Debug\net9.0\Tickets.Infrastructure.pdb
